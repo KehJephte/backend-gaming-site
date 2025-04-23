@@ -1,0 +1,1 @@
+// Schéma Mongoose des utilisateurs
