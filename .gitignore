@@ -1,0 +1,15 @@
+# système
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# dépendances
+node_modules/
+
+# variables d'environnement
+.env
+
+# fichiers temporaires
+*.tmp
