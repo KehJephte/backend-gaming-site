@@ -1,15 +1,19 @@
-# système
+# Fichiers système
 .DS_Store
 Thumbs.db
 
-# logs
+# Logs
 *.log
 
-# dépendances
+# Dépendances
 node_modules/
 
-# variables d'environnement
+# Variables d'environnement
 .env
 
-# fichiers temporaires
+# Fichiers temporaires
 *.tmp
+
+# Build
+dist/
+
